@@ -8,4 +8,13 @@ import lombok.*;
 @Builder
 public class SaltDTO {
     private String salt;
+
+    public SaltDTO() {
+        this.salt="";
+    }
+
+    public SaltDTO(String salt) {
+        this.salt=salt;
+    }
+
 }
