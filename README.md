@@ -69,5 +69,6 @@ Para ejecutarlo debe ejecutarse el comando en Windows
 - ![image](https://github.com/yorksgomez/cedula-back/assets/23731047/5bdbf706-56e6-4eca-a52f-64eb44086c3d)
 - Ver información médica
 - ![image](https://github.com/yorksgomez/cedula-back/assets/23731047/306e54ed-e0e8-4a32-8142-d09118f246ee)
+- Hay algunas otras rutas como update de información médica, ver mi información médica, etc.
 
 
